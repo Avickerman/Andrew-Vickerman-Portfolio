@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Informatoin, Contact and Portfolio page for Andrew Vickerman",
+  "main": "portfolio.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avickerman/Bootstrap-Portfolio.git"
+  },
+  "author": "Andrew Vickerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avickerman/Bootstrap-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Avickerman/Bootstrap-Portfolio#readme"
+}

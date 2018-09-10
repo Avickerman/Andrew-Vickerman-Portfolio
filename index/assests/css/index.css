@@ -2,7 +2,9 @@ body {
     background-image: url("http://getwallpapers.com/wallpaper/full/f/9/8/1127302-vertical-cool-black-background-designs-2170x1472-download.jpg");
   }
 
-
+  #indexText {
+    color: whitesmoke;
+}
 .container2 {
     border-style: solid;
     border-width: 1px;
@@ -90,9 +92,7 @@ h4 {
     color: whitesmoke;
 }
 
-#indexText {
-    color: whitesmoke;
-}
+
 
 #contactTextHead {
     color: whitesmoke;
@@ -101,17 +101,3 @@ h4 {
 #textName, #textEmail, #textMessage {
     color: whitesmoke;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
