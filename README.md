@@ -1,3 +1,3 @@
-# Bootstrap-Portfolio
+# Portfolio of Andrew Vickerman
 
-### https://avickerman.github.io/Bootstrap-Portfolio/portfolio/portfolio.html
+### Homepage: https://github.com/Avickerman/Bootstrap-Portfolio/index/index.html
