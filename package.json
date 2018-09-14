@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Informatoin, Contact and Portfolio page for Andrew Vickerman",
+  "description": "Information, Contact and Portfolio page for Andrew Vickerman",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
