@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Avickerman/Bootstrap-Portfolio.git"
+    "url": "git+https://github.com/Avickerman/Andrew-Vickerman-Portfolio.git"
   },
   "author": "Andrew Vickerman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Avickerman/Bootstrap-Portfolio/issues"
+    "url": "https://github.com/Avickerman/Andrew-Vickerman-Portfolio/issues"
   },
-  "homepage": "https://github.com/Avickerman/Bootstrap-Portfolio/index/index.html"
+  "homepage": "https://github.com/Avickerman/Andrew-Vickerman-Portfolio/index/index.html"
 }
