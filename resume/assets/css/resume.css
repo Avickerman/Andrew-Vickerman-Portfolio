@@ -54,3 +54,7 @@ p {
 #textName, #textEmail, #textMessage {
     color: whitesmoke;
 }
+
+#codingCert {
+    align-content: center;
+}
