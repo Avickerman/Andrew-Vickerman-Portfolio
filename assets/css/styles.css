@@ -2,6 +2,11 @@ body {
     background-image: url("http://getwallpapers.com/wallpaper/full/f/9/8/1127302-vertical-cool-black-background-designs-2170x1472-download.jpg");
   }
 
+.container {
+    background-color: whitesmoke;
+    padding: 3px;
+    margin: 3px;
+}
 
 .container2 {
     border-style: solid;
@@ -43,10 +48,27 @@ body {
 }
 
 h4 {
+    align-content: left;
+    text-align: left;
+    color: whitesmoke;
+}
+
+p {
+    align-content: left;
+    text-align: left;
+
+
+}
+
+h3 {
     align-content: center;
     text-align: center;
     background-color: whitesmoke;
 
+}
+
+#courseText {
+    font-style: italic;
 }
 
 #cright {
@@ -84,7 +106,9 @@ h4 {
     padding: 3px;
 }
 
-
+#codingCert {
+    align-content: center;
+}
 
 
 
