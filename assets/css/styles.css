@@ -39,12 +39,15 @@ body {
 .card {
     padding-left: 8px;
     margin-left: 6px;
+    
 }
 
 #imgCard {
     height: 300px;
     width: 300px;
     margin-left: 6px;
+    margin: auto;
+
 }
 
 h4 {
